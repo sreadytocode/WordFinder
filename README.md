@@ -37,14 +37,14 @@ Then did a rough component hierarchy diagram.
 
 ### Chose colour palette
 
-Generated a rough colour palette to use as inspiration for CSS for the application once brief is completed.
+Generated a rough colour palette to use as inspiration for CSS for the application once brief is completed
 
 <img src="./src/Images/Colour-palette.png" width="300" height="300">
 
 ## Testing 
 
 Had a think once main objective was achieved how I could take the application further. 
-Decided to use jest and react testing library to start testing component SearchBar.js and Home.js. Currently have written five tests as a starting point. 
+Decided to use jest and react testing library to start testing component SearchBar.js and Home.js. Currently have written five passing tests as a starting point. 
 
 ## Extensions
 
