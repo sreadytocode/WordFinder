@@ -11,6 +11,8 @@ npm install - To install all the dependencies
 
 npm start - To run the application and enjoy!
 
+npm test - To run the tests in the application
+
 ## Planning
 
 My first task once I had my brief was commence planning. Planning is an integral part to making any well structured application from scratch as it helps improve the user interface, functionality and usability of the application.
