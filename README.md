@@ -1,6 +1,7 @@
 # Word Finder Application
 
 A Javascript React application designed so that the user can search for and save their favourite words and definitions. They can save these to their favourite words and refer to them at a later session. 
+Can also listen to the pronunciation of many of the words searched (this is not for all as some of the words do not have an audio file in the API). 
 
 ## How to run application
 
