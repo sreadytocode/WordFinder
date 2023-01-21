@@ -1,8 +1,8 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState} from 'react'
 import { TextField, Button } from "@mui/material";
 import styled from 'styled-components';
 // npm install @mui/material @emotion/react @emotion/styled
-// import {APIRequest} from "../Re-usable/Api";
+import {APIRequest} from "../Re-usable/Api";
 
 const SearchBarContainer = styled.div`
   width: 100%;
@@ -18,8 +18,7 @@ const SearchBar = ({setWords}) => {
 
   const searchHandler = async () => {
     if (search) {
-      fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${search}`)
-        .then(res => res.json())
+      APIRequest(search)
         .then(searchData => {
           const searchedWords = searchData.filter(
             (word) =>

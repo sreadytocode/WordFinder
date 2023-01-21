@@ -7,7 +7,7 @@ describe('Home', function () {
 
 
     beforeEach(()=>{
-        home = render(<Home/>)
+        home = render(<Home/>);
     })
     
     afterEach(() => {

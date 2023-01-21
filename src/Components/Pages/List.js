@@ -45,7 +45,7 @@ const List = ({words, handleAddFavourites}) => {
         <div>
         </div>
      )}
-      </div>
+    </div>
   )
 }
 

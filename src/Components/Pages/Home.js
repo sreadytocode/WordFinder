@@ -31,7 +31,9 @@ const Home = ({favouriteWords, setFavouriteWords}) => {
       <div>
         <SearchBar setWords={setWords}/>
       </div>
+      <div>
         <List words={words} handleAddFavourites={handleAddFavourites}/>
+      </div>
     </div>
   )
 }
