@@ -41,6 +41,10 @@ Generated a rough colour palette to use as inspiration for CSS for the applicati
 
 <img src="./src/Images/Colour-palette.png" width="300" height="300">
 
+## CSS
+
+Decided to use the React UI tool mui for the CSS. Website: https://mui.com/
+
 ## Testing 
 
 Had a think once main objective was achieved how I could take the application further. 
