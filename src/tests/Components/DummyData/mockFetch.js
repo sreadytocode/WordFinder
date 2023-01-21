@@ -1,4 +1,6 @@
-const words = [
+// import 'cross-fetch'
+
+export const words = [
         {
         "word": "oat",
         "phonetic": "/əʊt/",
@@ -57,14 +59,23 @@ const words = [
         }
     ]
   
-  export default async function mockFetch(url) {
-    if(url.startsWith('https://api.dictionaryapi.dev/api/v2/entries/en/') && url.includes('oat')) {
-      return {
-        ok: true,
-        status: 200,
-        json: async () => words,
-      };
-    }
+  // export default async function mockFetch(url) {
+  //   if(url.startsWith('https://api.dictionaryapi.dev/api/v2/entries/en/') && url.includes('oat')) {
+  //     return {
+  //       ok: true,
+  //       status: 200,
+  //       json: async () => words,
+  //     };
+  //   }
+
+// export function mockFetch(word){
+//     if (word === "oat") {
+//         return fetch("https://api.dictionaryapi.dev/api/v2/entries/en/oat").then(res => res.json())
+//     } else {
+//       throw new Error(`Unhandled request: ${word}`);    
+//     } 
+// }
   
-    throw new Error(`Unhandled request: ${url}`);        
-  }
+    // throw new Error(`Unhandled request: ${url}`);        
+  // }
+

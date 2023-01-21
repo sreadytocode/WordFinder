@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react'
 import { TextField, Button } from "@mui/material";
 import styled from 'styled-components';
 // npm install @mui/material @emotion/react @emotion/styled
+// import {APIRequest} from "../Re-usable/Api";
 
 const SearchBarContainer = styled.div`
   width: 100%;
@@ -13,7 +14,7 @@ const SearchBarContainer = styled.div`
 `;
 
 const SearchBar = ({setWords}) => {
-  const [search, setSearch] = React.useState("");
+  const [search, setSearch] = useState("");
 
   const searchHandler = async () => {
     if (search) {

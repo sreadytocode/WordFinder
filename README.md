@@ -19,3 +19,10 @@ My first task once I had my brief was commence planning. Planning is an integral
 I started off with creating a user client story.
 
 <img src="./src/Images/User-client-story.png" width="300" height="300">
+
+### Wireframes
+
+Then created wireframes.
+
+<img src="./src/Images/Wireframes.png" width="300" height="300">
+
