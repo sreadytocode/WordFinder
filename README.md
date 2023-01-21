@@ -26,3 +26,31 @@ Then created wireframes.
 
 <img src="./src/Images/Wireframes.png" width="300" height="300">
 
+### Component Hierarchy
+
+Then did a rough component hierarchy diagram
+
+<img src="./src/Images/Starter-component-hierarchy.png" width="300" height="300">
+
+### Chose colour palette
+
+Generated a rough colour palette to use as inspiration for CSS for the application once brief is completed
+
+<img src="./src/Images/Colour-palette.png" width="300" height="300">
+
+## Testing 
+
+Had a think once main objective was achieved how I could take the application further. 
+Decided to use jest and react testing library to start testing component SearchBar.js. 
+
+## Extensions
+
+- Take Testing further by completing testing for SearchBar.js and test all other components in application.
+- At the moment application saves favourite word to local storage so that if page is refreshed the user does not lose stored definitions. As an extension I could take the application further by creating a backend. This could be done with either Nodejs or a Java Springboot back end.
+- Create an user dashboard that will store saved favourites. This would also include user profile and even a quiz that the user can use to test their knowledge on the words and definitions.
+- Integrate Auth0 so that authentication is available. With Auth0 have it so the user dashboard only appears in the navbar if they have logged in. Otherwise it will only let the user search for a word. 
+
+
+
+
+
