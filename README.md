@@ -41,7 +41,7 @@ Generated a rough colour palette to use as inspiration for CSS for the applicati
 ## Testing 
 
 Had a think once main objective was achieved how I could take the application further. 
-Decided to use jest and react testing library to start testing component SearchBar.js. 
+Decided to use jest and react testing library to start testing component SearchBar.js and Home.js. 
 
 ## Extensions
 
