@@ -7,11 +7,11 @@ Can also listen to the pronunciation of many of the words searched (this is not 
 
 Please make sure to perform the following commands via terminal:
 
-npm install - To install all the dependencies
+npm install - To install all the dependencies.
 
 npm start - To run the application and enjoy!
 
-npm test - To run the tests in the application
+npm test - To run the tests in the application.
 
 ## Planning
 
@@ -31,20 +31,20 @@ Then created wireframes.
 
 ### Component Hierarchy
 
-Then did a rough component hierarchy diagram
+Then did a rough component hierarchy diagram.
 
 <img src="./src/Images/Starter-component-hierarchy.png" width="300" height="300">
 
 ### Chose colour palette
 
-Generated a rough colour palette to use as inspiration for CSS for the application once brief is completed
+Generated a rough colour palette to use as inspiration for CSS for the application once brief is completed.
 
 <img src="./src/Images/Colour-palette.png" width="300" height="300">
 
 ## Testing 
 
 Had a think once main objective was achieved how I could take the application further. 
-Decided to use jest and react testing library to start testing component SearchBar.js and Home.js. 
+Decided to use jest and react testing library to start testing component SearchBar.js and Home.js. Currently have written five tests as a starting point. 
 
 ## Extensions
 
