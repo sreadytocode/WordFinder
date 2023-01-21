@@ -47,7 +47,9 @@ Decided to use jest and react testing library to start testing component SearchB
 
 - Take Testing further by completing testing for SearchBar.js and test all other components in application.
 - At the moment application saves favourite word to local storage so that if page is refreshed the user does not lose stored definitions. As an extension I could take the application further by creating a backend. This could be done with either Nodejs or a Java Springboot back end.
-- Create an user dashboard that will store saved favourites. This would also include user profile and even a quiz that the user can use to test their knowledge on the words and definitions.
+- Create an user dashboard that will store saved favourites.
+- Create User Profile page.
+- Create a quiz that the user can use to test their knowledge on the words and definitions.
 - Integrate Auth0 so that authentication is available. With Auth0 have it so the user dashboard only appears in the navbar if they have logged in. Otherwise it will only let the user search for a word. 
 
 
