@@ -35,6 +35,12 @@ Then did a rough component hierarchy diagram.
 
 <img src="./src/Images/Starter-component-hierarchy.png" width="300" height="300">
 
+### Bug table
+
+During the challenge I came across certain bugs and errors. Through reflection and critical thinking I was able to solve these. I kept a log of these in a bug table highlighted below. 
+
+<img src="./src/Images/Bug-table.png" width="300" height="300">
+
 ### Chose colour palette
 
 Generated a rough colour palette to use as inspiration for CSS for the application once brief is completed
