@@ -39,7 +39,7 @@ Then did a rough component hierarchy diagram.
 
 During the challenge I came across certain bugs and errors. Through reflection and critical thinking I was able to solve these. I kept a log of these in a bug table highlighted below. 
 
-<img src="./src/Images/Bug-table.png" width="500" height="300">
+<img src="./src/Images/BugTable.png" width="500" height="300">
 
 ### Chose colour palette
 
